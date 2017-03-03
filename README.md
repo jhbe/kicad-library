@@ -1,2 +1,3 @@
-# kicad-library
+# Summary
+
 A collection of KiCad schematic components.
